@@ -122,8 +122,8 @@ input:focus{
 }
 
 .btn-login{
-    background-color: #FF5B00;
-    border: 1px solid #FF5B00; 
+    background-color: #EDA20B;
+    border: 1px solid #EDA20B; 
     font-size: 25px;
     width: 200px;
     padding: 10px;
@@ -136,19 +136,19 @@ input:focus{
 
 .btn-login:hover{
     background-color: rgb(255, 255, 255);   
-    color: #FF5B00;
-    border: 1px solid #FF5B00; 
+    color: #EDA20B;
+    border: 1px solid #EDA20B; 
 }
 
 .txt-chathome{
     font-size: 40px;
     font-weight: 800;
-    color: #FF5B00;
+    color: #EDA20B;
     padding: 10px;    
 }
 
 .link-sistema{
-    color: #FF5B00;
+    color: #EDA20B;
     font-size: 24px;
     top: -30px;
     position: relative;
@@ -163,7 +163,7 @@ input:focus{
 }
 
 .menu-lateral{
-    background-color: #FF5B00;
+    background-color: #EDA20B;
     height: 100vh;
     width: 150px;
     color: #fff; 
